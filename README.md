@@ -1,1 +1,1 @@
-# Comp90020-Distributed-Algorithm
+# This is an implementation of raft algorithm in java
