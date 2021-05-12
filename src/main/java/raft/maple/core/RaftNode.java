@@ -766,12 +766,13 @@ public class RaftNode {
 
     /**
      * Commit all logs before commitIndex
-     *
-     * @since 1.0
+     * #note in 1.1 fix bug for i be dynamic
+     * @since 1.1
      */
     public synchronized void forwardCommit() {
         long commit = commitIndex;
-        for (long i = lastAppliedIndex + 1; i <= commit; i++) {
+        long lastApplied = lastAppliedIndex;
+        for (long i = lastApplied + 1; i <= commit; i++) {
             stateMachine.applyLog(myLogManager.getLogByIndex(i));
             stateMachineTextArea.setText(stateMachine.toString());
             lastAppliedIndex++;

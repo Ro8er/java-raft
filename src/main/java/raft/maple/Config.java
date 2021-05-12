@@ -7,9 +7,9 @@ public class Config {
      * The real election timeout of each node varies randomly when the algorithm is running and sitting in a range of
      * {electionTimeout + [0,electionTimeout)}
      */
-    private static final int electionTimeout = 5000; //ms (basic setting for election timeout, it varies)
+    private static final int electionTimeout = 30000; //ms (basic setting for election timeout, it varies)
 
-    private static final int heartbeat = 1000; //ms
+    private static final int heartbeat = 10000; //ms
 
     private static final int coreThreadNum = 20;
 
@@ -21,7 +21,7 @@ public class Config {
 
     private static final String dataDir = "./src/main/java/raft/maple/storage/entry";
 
-    private static final int clientRequestTimeout = 10000; //ms
+    private static final int clientRequestTimeout = 35000; //ms
 
     public static int getClientRequestTimeout() {
         return clientRequestTimeout;

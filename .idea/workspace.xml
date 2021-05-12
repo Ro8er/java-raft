@@ -35,7 +35,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="user GUI first version1" />
+    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="user GUI first version1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/IOManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/IOManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/MapStateMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/MapStateMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/Peer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/Peer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message$MessageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message$MessageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/socket/Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/socket/Endpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/storage/LogManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/storage/LogManager.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,31 +116,32 @@
       <recent name="$PROJECT_DIR$/src/main/java/raft/maple/storage" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.user">
+  <component name="RunManager" selected="Application.boot_1">
     <configuration name="Boot_0" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="raft.maple.Boot" />
+      <module name="raft" />
       <option name="PROGRAM_PARAMETERS" value="-index 0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="boot_1" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="raft.maple.Boot" />
-      <module name="Mraft" />
+      <module name="raft" />
       <option name="PROGRAM_PARAMETERS" value="-index 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="boot_2" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="raft.maple.Boot" />
-      <module name="Mraft" />
+      <module name="raft" />
       <option name="PROGRAM_PARAMETERS" value="-index 2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,7 +172,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="15" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="raft.maple.Boot" />
-      <module name="Mraft" />
+      <module name="raft" />
       <option name="PROGRAM_PARAMETERS" value="-c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,17 +182,6 @@
       <option name="MAIN_CLASS_NAME" value="raft.maple.Boot" />
       <module name="Mraft" />
       <option name="PROGRAM_PARAMETERS" value="-c" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -292,7 +301,11 @@
       <workItem from="1620717180224" duration="15900000" />
       <workItem from="1620733477583" duration="343000" />
       <workItem from="1620733851779" duration="6000" />
-      <workItem from="1620733896713" duration="6471000" />
+      <workItem from="1620733896713" duration="6746000" />
+      <workItem from="1620798795883" duration="437000" />
+      <workItem from="1620799265742" duration="556000" />
+      <workItem from="1620799846328" duration="1296000" />
+      <workItem from="1620801174067" duration="3392000" />
     </task>
     <servers />
   </component>
@@ -313,5 +326,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
