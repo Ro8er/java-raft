@@ -1,6 +1,7 @@
-{"logIndex":1,"logTerm":1,"commandType":"UPDATE","object":"c3BpZGVybWFu","content":"MTAw","voteGranted":2,"token":"6y76XtIV8V8UXOqZKEuJt2dvhSyU4wuZbzfrj0iXc7DmnxdEiT","commited":null}
-{"logIndex":2,"logTerm":3,"commandType":"UPDATE","object":"dGhhbm9z","content":"MTAw","voteGranted":2,"token":"05xo7yFTmdW4dgQ2jITYVvYusJKega0jm632aOAoSGd55pD6NL","commited":null}
-{"logIndex":3,"logTerm":3,"commandType":"UPDATE","object":"Y2FwdGFpbg==","content":"MTAw","voteGranted":2,"token":"Bn5mxFNKlRxSPfbL5WHP7KpITAJlTMwd3S7A4MP79uHfl1Nnbl","commited":null}
-{"logIndex":4,"logTerm":3,"commandType":"UPDATE","object":"ZHJzdHJhbmdl","content":"MTAw","voteGranted":2,"token":"4HxgjEJXVj07OPrPRVZiTeTsrAX5nw0zaZ18Cch0GPnmDNRwp8","commited":null}
-{"logIndex":5,"logTerm":3,"commandType":"UPDATE","object":"ZHJzdHJhbmdl","content":"MTAwMA==","voteGranted":2,"token":"I2LjUV5KtRgoVRfyzMmVAcgFcxF23liBwcZSVPKDr2SLtUvulh","commited":null}
-{"logIndex":6,"logTerm":4,"commandType":"UPDATE","object":"Y2FwdGFpbg==","content":"MTAwMA==","voteGranted":2,"token":"z2zkCi7dv13j8DFvCw3ldvTqlw0GHEPcxOLTzRhBd9YoW8uz6M","commited":null}
+{"logIndex":1,"logTerm":2,"commandType":"UPDATE","object":"c3VwZXI=","content":"MQ==","voteGranted":2,"token":"IAGyolGh7ZQk3PAazFKYBOcMzFzLpMtAGLjABNeDuCawYzPxrh","commited":null}
+{"logIndex":2,"logTerm":2,"commandType":"UPDATE","object":"c3VwZXI=","content":"MTA=","voteGranted":2,"token":"mGuy7K6gxqya9oU80zHjROGL7vi8mnor2LC3sNwzpC6RsnVCmq","commited":null}
+{"logIndex":3,"logTerm":4,"commandType":"UPDATE","object":"c3VwZXI=","content":"MTAw","voteGranted":3,"token":"rGtAlovx8uXaTzoQOXuDD23r1WMiP7CTZ4oDYaFjlP9pRWBbfT","commited":null}
+{"logIndex":4,"logTerm":8,"commandType":"UPDATE","object":"c3VwZXI=","content":"MQ==","voteGranted":2,"token":"WdvRCa2qBThW8ts0GxPlcBllIvIMeUkBb2e81mGdLoUJJTR0PM","commited":null}
+{"logIndex":5,"logTerm":9,"commandType":"UPDATE","object":"c3VwZXI=","content":"MTAwMA==","voteGranted":2,"token":"Pr4y1UHMLIH94K3Q41MRE4XmIiYD0f2JT1CMG8Ez2fSyWGrbry","commited":true}
+{"logIndex":6,"logTerm":10,"commandType":"UPDATE","object":"c3VwZXI=","content":"MQ==","voteGranted":2,"token":"WvsnHEgBhBQ64QgIyIQAS3haQwrSDtavKogm22VUEyCC8bXIa1","commited":null}
+{"logIndex":7,"logTerm":11,"commandType":"UPDATE","object":"c3VwZXI=","content":"MA==","voteGranted":3,"token":"HqEP65ve6h1K69ngtz61uIbpaMygoS36ZI9e4BzQnCmeKYCDY9","commited":null}
