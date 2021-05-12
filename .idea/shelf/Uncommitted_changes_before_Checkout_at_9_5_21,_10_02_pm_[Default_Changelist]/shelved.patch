@@ -1,0 +1,103 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:feature\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:feature\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:kim\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c3be63ee-175d-4221-94e4-1bf7c2cdc114\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/GUI/application.form\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/GUI/application.form\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/GUI/application.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/GUI/application.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"feature/kim/GUI\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1rbVQphDIyHWHk5zIKmYzbQBIiu\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"Downloaded.Files.Path.Enabled\" value=\"true\" />\n    <property name=\"Repository.Attach.Annotations\" value=\"false\" />\n    <property name=\"Repository.Attach.JavaDocs\" value=\"false\" />\n    <property name=\"Repository.Attach.Sources\" value=\"false\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/main/java/raft/maple/storage\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"reference.settings.project.maven.repository.indices\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main/java/raft/maple/storage\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.main\">\n    <configuration name=\"main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"GUI.main\" />\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"GUI.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"node_0\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 0\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"node_1\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 1\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"node_2\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 2\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"unitTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"socket.unitTest\" />\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"proto.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TestTools.testObjToStr\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Test.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Test\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Test.TestTools\" />\n      <option name=\"METHOD_NAME\" value=\"testObjToStr\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TestTools.testStrToObj\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Test.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Test\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Test.TestTools\" />\n      <option name=\"METHOD_NAME\" value=\"testStrToObj\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <list>\n      <item itemvalue=\"Application.node_0\" />\n      <item itemvalue=\"Application.node_2\" />\n      <item itemvalue=\"Application.node_1\" />\n      <item itemvalue=\"Application.unitTest\" />\n      <item itemvalue=\"JUnit.TestTools.testObjToStr\" />\n      <item itemvalue=\"JUnit.TestTools.testStrToObj\" />\n      <item itemvalue=\"Application.main\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.main\" />\n        <item itemvalue=\"JUnit.TestTools.testStrToObj\" />\n        <item itemvalue=\"JUnit.TestTools.testObjToStr\" />\n        <item itemvalue=\"Application.unitTest\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" BundledDictionaries=\"0\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" Dictionaries=\"0\" CorrectionsLimit=\"5\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c3be63ee-175d-4221-94e4-1bf7c2cdc114\" name=\"Default Changelist\" comment=\"\" />\n      <created>1619244762676</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1619244762676</updated>\n      <workItem from=\"1619244765179\" duration=\"30193000\" />\n      <workItem from=\"1619761366137\" duration=\"80931000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"2\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"451\" y=\"256\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1620480052105\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"451\" y=\"256\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900\" timestamp=\"1620480052105\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1620482313513\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900\" timestamp=\"1620482313513\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875\" timestamp=\"1620481934016\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center\" timestamp=\"1620482313511\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900\" timestamp=\"1620482313511\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875\" timestamp=\"1620481934013\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left\" timestamp=\"1620482313510\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900\" timestamp=\"1620482313510\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875\" timestamp=\"1620481934012\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right\" timestamp=\"1620482313512\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900\" timestamp=\"1620482313512\" />\n    <state width=\"1398\" height=\"245\" key=\"GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875\" timestamp=\"1620481934015\" />\n    <state x=\"258\" y=\"109\" key=\"Maven.ArtifactSearchDialog\" timestamp=\"1620479897210\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"258\" y=\"109\" key=\"Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1620479897210\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 1f7d4692c9feb45163fff6e1b54e00253032cc3a)
++++ .idea/workspace.xml	(date 1620561695360)
+@@ -32,15 +32,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/application.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/application.form" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GUI/application.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" afterDir="false" />
+-    </list>
++    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="node GUI complete" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -188,9 +180,9 @@
+       <item itemvalue="Application.node_2" />
+       <item itemvalue="Application.node_1" />
+       <item itemvalue="Application.unitTest" />
++      <item itemvalue="Application.main" />
+       <item itemvalue="JUnit.TestTools.testObjToStr" />
+       <item itemvalue="JUnit.TestTools.testStrToObj" />
+-      <item itemvalue="Application.main" />
+     </list>
+     <recent_temporary>
+       <list>
+@@ -215,6 +207,14 @@
+       <workItem from="1619244765179" duration="30193000" />
+       <workItem from="1619761366137" duration="80931000" />
+     </task>
++    <task id="LOCAL-00001" summary="node GUI complete">
++      <created>1620483093883</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1620483093883</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -234,35 +234,41 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="node GUI complete" />
++    <option name="LAST_COMMIT_MESSAGE" value="node GUI complete" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="451" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620480052105">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+     <state x="451" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1620480052105" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1620482313513">
++    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1620483125692">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620482313513" />
++    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620483125692" />
+     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1620481934016" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1620482313511">
++    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1620483125691">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620482313511" />
++    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620483125691" />
+     <state width="1398" height="245" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1620481934013" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1620482313510">
++    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1620483125691">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620482313510" />
++    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620483125691" />
+     <state width="1398" height="245" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1620481934012" />
+-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1620482313512">
++    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1620483125692">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620482313512" />
++    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620483125692" />
+     <state width="1398" height="245" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1620481934015" />
+     <state x="258" y="109" key="Maven.ArtifactSearchDialog" timestamp="1620479897210">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+     <state x="258" y="109" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1620479897210" />
++    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1620483117717">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1620483117717" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -1,0 +1,304 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:feature\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:feature\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:kim\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c3be63ee-175d-4221-94e4-1bf7c2cdc114\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/core/IOManager.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/core/IOManager.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/core/RaftNode.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/core/RaftNode.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/socket/RPClient.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/socket/RPClient.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/core/IOManager.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/core/IOManager.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/core/RaftNode.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/core/RaftNode.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/socket/RPClient.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/socket/RPClient.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/raft-1.0-SNAPSHOT-jar-with-dependencies.jar\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/raft-1.0-SNAPSHOT-jar-with-dependencies.jar\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/raft-1.0-SNAPSHOT.jar\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/raft-1.0-SNAPSHOT.jar\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1rbVQphDIyHWHk5zIKmYzbQBIiu\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"Downloaded.Files.Path.Enabled\" value=\"true\" />\n    <property name=\"Repository.Attach.Annotations\" value=\"false\" />\n    <property name=\"Repository.Attach.JavaDocs\" value=\"false\" />\n    <property name=\"Repository.Attach.Sources\" value=\"false\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/pom.xml\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"project.structure.last.edited\" value=\"Libraries\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"reference.settings.project.maven.repository.indices\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/\" />\n    </key>\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\n      <recent name=\"\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"JUnit.TestTools.testStrToObj\">\n    <configuration name=\"node_0\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 0\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"node_1\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 1\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"node_2\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"core.IOManager\" />\n      <module name=\"raft\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"-index 2\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"unitTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"socket.unitTest\" />\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"proto.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TestTools.testObjToStr\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Test.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Test\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Test.TestTools\" />\n      <option name=\"METHOD_NAME\" value=\"testObjToStr\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TestTools.testStrToObj\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"raft\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"Test.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"Test\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Test.TestTools\" />\n      <option name=\"METHOD_NAME\" value=\"testStrToObj\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <list>\n      <item itemvalue=\"Application.node_0\" />\n      <item itemvalue=\"Application.node_2\" />\n      <item itemvalue=\"Application.node_1\" />\n      <item itemvalue=\"Application.unitTest\" />\n      <item itemvalue=\"JUnit.TestTools.testObjToStr\" />\n      <item itemvalue=\"JUnit.TestTools.testStrToObj\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.TestTools.testStrToObj\" />\n        <item itemvalue=\"JUnit.TestTools.testObjToStr\" />\n        <item itemvalue=\"Application.unitTest\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c3be63ee-175d-4221-94e4-1bf7c2cdc114\" name=\"Default Changelist\" comment=\"\" />\n      <created>1619244762676</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1619244762676</updated>\n      <workItem from=\"1619244765179\" duration=\"30193000\" />\n      <workItem from=\"1619761366137\" duration=\"80931000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision dc34ca394972abf4361c47962e5b3191f32833d6)
++++ .idea/workspace.xml	(date 1620131080755)
+@@ -1,8 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+   <component name="BranchesTreeState">
+     <expand>
+       <path>
+@@ -37,14 +34,7 @@
+   <component name="ChangeListManager">
+     <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/core/IOManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/IOManager.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/core/RaftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/RaftNode.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/RPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/socket/RPClient.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/core/IOManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/IOManager.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/core/RaftNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/RaftNode.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/socket/RPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/RPClient.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/raft-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/raft-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/raft-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/raft-1.0-SNAPSHOT.jar" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/raft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/raft.iml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -54,7 +44,6 @@
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+-        <option value="Interface" />
+         <option value="Class" />
+       </list>
+     </option>
+@@ -84,22 +73,13 @@
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+     <property name="nodejs_package_manager_path" value="npm" />
+-    <property name="project.structure.last.edited" value="Libraries" />
+-    <property name="project.structure.proportion" value="0.0" />
+-    <property name="project.structure.side.proportion" value="0.0" />
+-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+-  </component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$/src/" />
+-    </key>
+-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+-      <recent name="" />
+-    </key>
++    <property name="project.structure.last.edited" value="Artifacts" />
++    <property name="project.structure.proportion" value="0.15" />
++    <property name="project.structure.side.proportion" value="0.2" />
+   </component>
+-  <component name="RunManager" selected="JUnit.TestTools.testStrToObj">
++  <component name="RunManager" selected="Application.node_2">
+     <configuration name="node_0" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="core.IOManager" />
++      <option name="MAIN_CLASS_NAME" value="node" />
+       <module name="raft" />
+       <option name="PROGRAM_PARAMETERS" value="-index 0" />
+       <method v="2">
+@@ -107,7 +87,7 @@
+       </method>
+     </configuration>
+     <configuration name="node_1" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="core.IOManager" />
++      <option name="MAIN_CLASS_NAME" value="node" />
+       <module name="raft" />
+       <option name="PROGRAM_PARAMETERS" value="-index 1" />
+       <method v="2">
+@@ -115,7 +95,7 @@
+       </method>
+     </configuration>
+     <configuration name="node_2" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="core.IOManager" />
++      <option name="MAIN_CLASS_NAME" value="node" />
+       <module name="raft" />
+       <option name="PROGRAM_PARAMETERS" value="-index 2" />
+       <method v="2">
+@@ -127,53 +107,10 @@
+       <module name="raft" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="proto.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+-      <option name="arquillianRunConfiguration">
+-        <value>
+-          <option name="containerStateName" value="" />
+-        </value>
+-      </option>
+-      <option name="TEST_OBJECT" value="class" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="TestTools.testObjToStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <module name="raft" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="Test.*" />
++          <option name="PATTERN" value="socket.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="PACKAGE_NAME" value="Test" />
+-      <option name="MAIN_CLASS_NAME" value="Test.TestTools" />
+-      <option name="METHOD_NAME" value="testObjToStr" />
+-      <option name="TEST_OBJECT" value="method" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="TestTools.testStrToObj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <module name="raft" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="Test.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <option name="PACKAGE_NAME" value="Test" />
+-      <option name="MAIN_CLASS_NAME" value="Test.TestTools" />
+-      <option name="METHOD_NAME" value="testStrToObj" />
+-      <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -183,18 +120,13 @@
+       <item itemvalue="Application.node_2" />
+       <item itemvalue="Application.node_1" />
+       <item itemvalue="Application.unitTest" />
+-      <item itemvalue="JUnit.TestTools.testObjToStr" />
+-      <item itemvalue="JUnit.TestTools.testStrToObj" />
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="JUnit.TestTools.testStrToObj" />
+-        <item itemvalue="JUnit.TestTools.testObjToStr" />
+         <item itemvalue="Application.unitTest" />
+       </list>
+     </recent_temporary>
+   </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -206,12 +138,13 @@
+       <option name="presentableId" value="Default" />
+       <updated>1619244762676</updated>
+       <workItem from="1619244765179" duration="30193000" />
+-      <workItem from="1619761366137" duration="80931000" />
++      <workItem from="1620126294495" duration="49000" />
++      <workItem from="1620126381162" duration="1304000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
++    <option name="version" value="2" />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+@@ -228,4 +161,74 @@
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+   </component>
++  <component name="WindowStateProjectService">
++    <state x="347" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619418717394">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="347" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1619418717394" />
++    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1619412053447">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1619412053447" />
++    <state x="457" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1619418678579">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="457" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1619418678579" />
++    <state x="342" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1620126681674">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="342" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1620126681674" />
++    <state x="499" y="348" width="441" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619281005339">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="499" y="348" width="441" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1619281005339" />
++    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619442689784">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619442689784" />
++    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619442689781">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619442689781" />
++    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619442689780">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619442689780" />
++    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619442689783">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619442689783" />
++    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1619419629777">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619419629777" />
++    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1619419629775">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619419629775" />
++    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1619419629774">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619419629774" />
++    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1619419629776">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619419629776" />
++    <state x="258" y="109" key="Maven.ArtifactSearchDialog" timestamp="1619426617807">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="258" y="109" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1619426617807" />
++    <state x="208" y="28" key="SettingsEditor" timestamp="1620126663088">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="208" y="28" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1620126663088" />
++    <state x="423" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1619244987387">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="423" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1619244987387" />
++    <state x="475" y="167" key="git4idea.branch.GitSmartOperationDialog" timestamp="1619245053640">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="475" y="167" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1619245053640" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: raft.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule=\"true\" type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\" LANGUAGE_LEVEL=\"JDK_1_8\">\n    <output url=\"file://$MODULE_DIR$/target/classes\" />\n    <output-test url=\"file://$MODULE_DIR$/target/test-classes\" />\n    <content url=\"file://$MODULE_DIR$\">\n      <sourceFolder url=\"file://$MODULE_DIR$/src/main/java\" isTestSource=\"false\" />\n      <excludeFolder url=\"file://$MODULE_DIR$/target\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n    <orderEntry type=\"library\" name=\"commons-cli:commons-cli:1.3.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: com.googlecode.json-simple:json-simple:1.1.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: junit:junit:4.10\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: org.hamcrest:hamcrest-core:1.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: commons-cli:commons-cli:1.3.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: org.mortbay.jetty:jetty-util:6.1.25\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: org.slf4j:slf4j-api:1.7.5\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: org.slf4j:slf4j-simple:1.6.4\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: com.fasterxml.jackson.core:jackson-core:2.10.5\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: com.fasterxml.jackson.core:jackson-databind:2.10.5.1\" level=\"project\" />\n    <orderEntry type=\"library\" name=\"Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.5\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.junit.jupiter:junit-jupiter-api:5.7.1\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.apiguardian:apiguardian-api:1.1.0\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.opentest4j:opentest4j:1.2.0\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.junit.platform:junit-platform-commons:1.7.1\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1\" level=\"project\" />\n    <orderEntry type=\"library\" scope=\"TEST\" name=\"Maven: org.junit.platform:junit-platform-engine:1.7.1\" level=\"project\" />\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- raft.iml	(revision dc34ca394972abf4361c47962e5b3191f32833d6)
++++ raft.iml	(date 1620126663753)
+@@ -9,22 +9,22 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="library" name="commons-cli:commons-cli:1.3.1" level="project" />
+-    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+-    <orderEntry type="library" name="Maven: junit:junit:4.10" level="project" />
+-    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+-    <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.3.1" level="project" />
+-    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty-util:6.1.25" level="project" />
+-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.5" level="project" />
+-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.6.4" level="project" />
+-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.5" level="project" />
+-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.5.1" level="project" />
+-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.5" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
++    <orderEntry type="library" exported="" name="commons-cli:commons-cli:1.3.1" level="project" />
++    <orderEntry type="library" exported="" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
++    <orderEntry type="library" exported="" name="Maven: junit:junit:4.10" level="project" />
++    <orderEntry type="library" exported="" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
++    <orderEntry type="library" exported="" name="Maven: commons-cli:commons-cli:1.3.1" level="project" />
++    <orderEntry type="library" exported="" name="Maven: org.mortbay.jetty:jetty-util:6.1.25" level="project" />
++    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-api:1.7.5" level="project" />
++    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-simple:1.6.4" level="project" />
++    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.5" level="project" />
++    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.5.1" level="project" />
++    <orderEntry type="library" exported="" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.5" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.1" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
++    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
+   </component>
+ </module>
+\ No newline at end of file

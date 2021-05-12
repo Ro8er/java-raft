@@ -1,0 +1,84 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]" date="1620479849329" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 8/5/21, 11:17 pm [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Util/JsonTool.class" />
+    <option name="AFTER_PATH" value="target/classes/Util/JsonTool.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/JsonTool.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/core/IOManager.class" />
+    <option name="AFTER_PATH" value="target/classes/core/IOManager.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/IOManager.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/Message$MessageType.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/Message$MessageType.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/Message$MessageType.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/MessageBuilder.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/MessageBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/MessageBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/socket/RPCServer.class" />
+    <option name="AFTER_PATH" value="target/classes/socket/RPCServer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RPCServer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/socket/Endpoint.class" />
+    <option name="AFTER_PATH" value="target/classes/socket/Endpoint.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/Endpoint.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/socket/RPClient.class" />
+    <option name="AFTER_PATH" value="target/classes/socket/RPClient.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RPClient.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Util/Config.class" />
+    <option name="AFTER_PATH" value="target/classes/Util/Config.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/Config.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/core/RaftNode.class" />
+    <option name="AFTER_PATH" value="target/classes/core/RaftNode.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RaftNode.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/VoteRequestBuilder.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/VoteRequestBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/VoteRequestBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/VoteResponseBuilder.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/VoteResponseBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/VoteResponseBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/core/RaftNode$1.class" />
+    <option name="AFTER_PATH" value="target/classes/core/RaftNode$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RaftNode$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/core/RaftNode$2.class" />
+    <option name="AFTER_PATH" value="target/classes/core/RaftNode$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RaftNode$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/HeartbeatBuilder.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/HeartbeatBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/HeartbeatBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/proto/Message.class" />
+    <option name="AFTER_PATH" value="target/classes/proto/Message.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/Message.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/core/RaftNode$NodeState.class" />
+    <option name="AFTER_PATH" value="target/classes/core/RaftNode$NodeState.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_5_21,_11_17_pm_[Default_Changelist]/RaftNode$NodeState.class" />
+  </binary>
+</changelist>

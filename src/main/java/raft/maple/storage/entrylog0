@@ -1,0 +1,16 @@
+{"logIndex":1,"logTerm":1,"commandType":"UPDATE","object":"bGVl","content":"MQ==","voteGranted":3,"token":"42PDDSNfpxYpNfnfwy8BKuTn4FHi6jD8AGyXhN8UmDGkcJW5i0","commited":null}
+{"logIndex":2,"logTerm":1,"commandType":"UPDATE","object":"bGVl","content":"MQ==","voteGranted":3,"token":"Kfeu81XFx4a7tU11lkgzYs92PCgCaXdg8oEHUkfRnB6YE79PwE","commited":null}
+{"logIndex":3,"logTerm":2,"commandType":"UPDATE","object":"bGVl","content":"MTA=","voteGranted":2,"token":"6TGfZRFDKZDLkbONTWvK3twoyFIWYpxsNzLMlSZ4SH2zaMqFNN","commited":true}
+{"logIndex":4,"logTerm":2,"commandType":"UPDATE","object":"bGVl","content":"MTAw","voteGranted":2,"token":"mkOTHsQvqgxD2L72Hc8dedQYJhAlK7AneYGaixmSo74rnKgnnR","commited":null}
+{"logIndex":5,"logTerm":3,"commandType":"UPDATE","object":"bA==","content":"MA==","voteGranted":2,"token":"NEO3gDJIzYbGKr995vaYifMXsgzd99Ww3AGvANfHDspmnw8Q0R","commited":null}
+{"logIndex":6,"logTerm":3,"commandType":"UPDATE","object":"bA==","content":"MQ==","voteGranted":3,"token":"1J1vKxFebwaZENvnWJJ7Z9ODQbN6lsfq2oA6C0zLEgVT6bXX8C","commited":null}
+{"logIndex":7,"logTerm":4,"commandType":"UPDATE","object":"bA==","content":"MTAwMA==","voteGranted":2,"token":"pCZs4TeSKnZA9fSAqtjR3hBNynJGXBxjlAmStdhudA40fwADwO","commited":null}
+{"logIndex":8,"logTerm":4,"commandType":"UPDATE","object":"bA==","content":"MTAw","voteGranted":2,"token":"8qdIDEpuBLx5GPQdVhS42tD48vqXDcVC44HdlcV0VHjrR6qEfY","commited":null}
+{"logIndex":9,"logTerm":5,"commandType":"UPDATE","object":"bA==","content":"MTAwMA==","voteGranted":2,"token":"7nrrpsikMTJ5QRJS41R448iElnrNdZJvct7FxC0Ts0ykZa32GA","commited":true}
+{"logIndex":10,"logTerm":5,"commandType":"UPDATE","object":"bA==","content":"MQ==","voteGranted":3,"token":"KF8nA2blWSWhyE7BPAdRIFHj4GoemQNS7rrPdo3ICMob5hRdy2","commited":null}
+{"logIndex":11,"logTerm":9,"commandType":"UPDATE","object":"bA==","content":"MTA=","voteGranted":2,"token":"3NFwO7rR7RRzn9oroTACvF8fWyWgcN0pJdO1H0D7C8rAaWd4ae","commited":null}
+{"logIndex":12,"logTerm":10,"commandType":"UPDATE","object":"aQ==","content":"MQ==","voteGranted":2,"token":"JAtfgzenw3WCHjK4RrcbiHpQENT3cPM66luR0OfWJLFTknyKal","commited":null}
+{"logIndex":13,"logTerm":10,"commandType":"UPDATE","object":"aQ==","content":"MTA=","voteGranted":2,"token":"a1MHIEg3cc7OYddTsL4j6mFWuBDn5oNPtxPgocfHR09o2ZXk3B","commited":null}
+{"logIndex":14,"logTerm":11,"commandType":"UPDATE","object":"aQ==","content":"MTE=","voteGranted":2,"token":"dZFWPAqDumv0zXBd0tspQI2BT3pDPN7YgyYjIFWDwINFQn1bI2","commited":null}
+{"logIndex":15,"logTerm":11,"commandType":"UPDATE","object":"aQ==","content":"MTU=","voteGranted":2,"token":"mIz2vwCkKkBde0SErYy7vLtPns4jJP3Lu9D3Ovqdy1YzCIIG6K","commited":null}
+{"logIndex":16,"logTerm":15,"commandType":"UPDATE","object":"Zg==","content":"MQ==","voteGranted":2,"token":"0EyAzfR8kxBhJUE0F5GfcnEc8HKf9A55scGwjya2Vgfgsva6wG","commited":null}
