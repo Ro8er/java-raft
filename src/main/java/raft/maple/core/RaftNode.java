@@ -523,7 +523,7 @@ public class RaftNode {
      *            note#1: I am a leader and i receive a hb with a term = mine will not happen in raft.
      *            note#2: note#1 is wrong, an update of rule4 since 1.1 work. I am a leader and I vote to a new candidate,
      *                    because my hb somehow delays in the network, then my term = sender's term, but i vote to the sender.
-     *                    I should step down.         
+     *                    I should step down.
      * @since 1.1
      */
     private void processHb(Message msg) {
