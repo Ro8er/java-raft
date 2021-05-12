@@ -35,26 +35,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="user GUI first version1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/core/RaftNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raft/maple/storage/entrylog2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/IOManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/IOManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/MapStateMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/MapStateMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/Peer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/Peer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/core/RaftNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message$MessageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message$MessageType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/proto/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/socket/Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/socket/Endpoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/raft/maple/storage/LogManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/raft/maple/storage/LogManager.class" afterDir="false" />
-    </list>
+    <list default="true" id="c3be63ee-175d-4221-94e4-1bf7c2cdc114" name="Default Changelist" comment="user GUI first version1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,7 +286,7 @@
       <workItem from="1620798795883" duration="437000" />
       <workItem from="1620799265742" duration="556000" />
       <workItem from="1620799846328" duration="1296000" />
-      <workItem from="1620801174067" duration="3392000" />
+      <workItem from="1620801174067" duration="3696000" />
     </task>
     <servers />
   </component>
